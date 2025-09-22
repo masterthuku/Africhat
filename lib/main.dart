@@ -1,7 +1,7 @@
 import 'package:africhat/chat_page.dart';
 import 'package:africhat/core/theme.dart';
-import 'package:africhat/message_page.dart';
-import 'package:africhat/register_page.dart';
+import 'package:africhat/features.auth/presentation/pages/login_page.dart';
+import 'package:africhat/features.auth/presentation/pages/register_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
